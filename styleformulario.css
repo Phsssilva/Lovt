@@ -1,0 +1,33 @@
+section.formulario form textarea{
+display: flex;
+flex-direction: column;
+width: 35%;
+resize: none;
+}
+formulario{
+width: 40%;
+}
+section.formulario{
+display: contents;
+}
+section formulario form{
+
+}
+
+section formulario div.currilulo{
+
+}
+section formulario form{
+    
+}
+footer.categoria{
+    height: 200px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    background-color:#C2185B;
+    font-size: 16px;
+}
+div.categoria{
+    
+}
